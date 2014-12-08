@@ -18,7 +18,7 @@
   "dependencies": {
     "angular": "1.2.26",
     "jquery": "2.x",
-    "fullcalendar": "git@github.com:hrendoh/fullcalendar.git#2.1.1",
+    "fullcalendar": "git@github.com:hrendoh/fullcalendar.git#2.0.2",
     "moment": "2.*"
   },
   "devDependencies": {
